@@ -18,7 +18,7 @@ To upload git, just took a sample for it (`Questions.csv` & `Tags.csv`)
 
 Example figure from the study:
 
-![Comparison](paper/example_results-tfidf.png)              (paper/example_results-distilbert.png)
+![Comparison](paper/example_results-tfidf.png)   ![Comparison](paper/example_results-distilbert.png)
 
 (see full analysis in the included paper: [Alperen_Keles-Article.pdf](paper/Alperen_Keles-Article.pdf))
 
