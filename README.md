@@ -31,7 +31,7 @@ Example figure from the study:
 
 ## 🚀 How to Run
 ```bash
-git clone https://github.com/<alperenks>/stackoverflow-tag-predictor.git
+git clone https://github.com/alperenks/stackoverflow-tag-predictor.git
 cd stackoverflow-tag-predictor
 pip install -r requirements.txt
 ```
